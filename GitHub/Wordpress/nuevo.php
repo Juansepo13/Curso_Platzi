@@ -1,4 +1,4 @@
-<?php
-  echo "Hello World!";
-  echo "PHP is so easy!";
+#!/usr/bin/php
+<?php 
+echo "Hello World!"; echo "PHP is so easy!"; 
 ?>
